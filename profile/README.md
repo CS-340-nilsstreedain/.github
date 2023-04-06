@@ -21,7 +21,7 @@ Lectures will be recorded and links will be added to the module page for the res
 Please see "Where to go for help? (Comm. Policies & Methods)"
 
 ## Discord
-https://discord.gg/yXqCuGd8fG Links to an external site.
+https://discord.gg/yXqCuGd8fG
 
 ## Instructional Team
 Name | Role | Office Hours
@@ -79,7 +79,7 @@ Accommodations for students with disabilities are determined and approved by Dis
 
 ## Accessibility of Course Materials
 All materials used in this course are intended to be accessible. However, resources available through external providers (i.e., YouTube, websites, etc.) may not fully comply with accessibility standards. If you require accommodations please contact Disability Access Services (DAS).
-Additionally, Canvas, the learning management system through which this course is offered, provides a detailed page Links to an external site. about how the platform is accessible to students with disabilities.
+Additionally, Canvas, the learning management system through which this course is offered, provides a detailed page about how the platform is accessible to students with disabilities.
 
 ## Student Evaluation of Courses
 The online Student Evaluation of Teaching system opens to students during the last couple weeks of the term. Students receive notification, instructions and the link through their ONID. They may also log into the system via Online Services. Course evaluation results are extremely important and used to help improve courses and the online learning experience for future students. Responses are anonymous (unless a student chooses to “sign” their comments, agreeing to relinquish anonymity) and unavailable to instructors until after grades have been posted. The results of scaled questions and signed comments go to both the instructor and their unit head/supervisor.  Anonymous (unsigned) comments go to the instructor only.
